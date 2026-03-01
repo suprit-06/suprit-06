@@ -49,15 +49,10 @@ I'm a Full Stack Developer specializing in the **MERN stack**, **TypeScript**, a
 
 ### 🪴 Projects
 
-**ProLearn — Learning Platform**
-- Clean UI, course listing, responsive layout, and modular components.
-- 🔗 [Live Demo](https://pro-learn-gold.vercel.app/)
-- *Focus: Frontend Architecture, UX Design*
-
-**AgriGrow — E-commerce for Farmers**
-- MERN-based storefront focused on accessibility and simple agricultural commerce.
-- 🔗 [Live Demo](https://agri-grow-frontend.vercel.app/)
-- *Focus: Full Stack Integration, Seamless Checkout*
+**Lets-talk — AI Chat Platform**
+- High-performance, real-time AI chat platform featuring JWT authentication, chat history, and seamless Groq API integration.
+- 🔗 [GitHub Repository](https://github.com/suprit-06/Lets-talk)
+- *Focus: Real-time Communication, AI Integration, Security*
 
 ---
 
