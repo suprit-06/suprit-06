@@ -1,13 +1,13 @@
 <div align="center">
   <h3><a href="https://example.com/portfolios">Full Stack Developer</a> |</h3>
   
-  <h1>Hi 👋, I'm Vamshi Krishna</h1>
+  <h1>Hi 👋, I'm Suprit Das</h1>
   
   <p><b>A passionate Full Stack Developer from Hyderabad, India — MERN & modern frontend</b></p>
   
   <p>
     <a href="https://example.com/resume"><img src="https://img.shields.io/badge/-View_Resume-blue?style=for-the-badge" alt="View Resume"></a>
-    <a href="mailto:vamshikrishna.n832@gmail.com"><img src="https://img.shields.io/badge/Contact-vamshikrishna.n832@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Email"></a>
+    <a href="mailto:supritdas9133@gmail.com"><img src="https://img.shields.io/badge/Contact-supritdas9133@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Email"></a>
   </p>
 </div>
 
@@ -70,18 +70,18 @@ I write clean, maintainable code, value good UI/UX, and love collaborating on re
 
 ### 📬 Contact & Links
 
-- **Email**: [vamshikrishna.n832@gmail.com](mailto:vamshikrishna.n832@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/vamshikrishna-nagula-170b0b18a/](https://www.linkedin.com/in/vamshikrishna-nagula-170b0b18a/)
+- **Email**: [supritdas9133@gmail.com](mailto:supritdas9133@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/suprit-06/](https://www.linkedin.com/in/suprit-06/)
 - **Resume**: [https://drive.google.com/view/resume_link](https://drive.google.com/view/resume_link)
-- **GitHub**: [https://github.com/VamshiKrishna0372](https://github.com/VamshiKrishna0372)
+- **GitHub**: [https://github.com/suprit-06](https://github.com/suprit-06)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VamshiKrishna0372&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117" alt="Vamshi's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiKrishna0372&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suprit-06&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117" alt="Suprit's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprit-06&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ I write clean, maintainable code, value good UI/UX, and love collaborating on re
 ### 🔥 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VamshiKrishna0372&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suprit-06&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
@@ -100,5 +100,5 @@ I think I am funny 😂 ...and I love turning ideas into polished, usable web pr
 
 ---
 <div align="center">
-  <i>Made with ❤️ - <b>Vamshi Krishna</b></i>
+  <i>Made with ❤️ - <b>Suprit Das</b></i>
 </div>
